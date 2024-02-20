@@ -6,4 +6,4 @@ SPECIFIC PAGES
 
 This Project is just Developed for learning the Structures of laravel and testing the learning
 
-The project may malfunction or not perform well so try to use the laravel installation before commiting cause the project is been uploaded using the upload files and not commited using bash
+The project may malfunction or not perform well so try to use the laravel installation before commiting cause the project is been uploaded using the upload files 
